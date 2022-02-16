@@ -1,5 +1,5 @@
 # CFRM505
-Assignment code of CFRM502 Monte Carlo Methods In Finance at the University of Washington
+Assignment code of CFRM505 Monte Carlo Methods In Finance at the University of Washington
 # Course Desciption
 Simulation of models of equity and fixed-income markets applied to financial applications, including derivative security pricing and risk management. The course will begin with a rapid review of probability distributions, statistics, and generating random numbers and samples from specified distributions.  The following topics will be covered:
 
